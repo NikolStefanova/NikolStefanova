@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikolStefanova
 - 👀 I’m interested in sports(football and tennis)
 - 🌱 I’m currently learning Computer Science at Technical University Berlin
-- 📌 I'm living in Berlin, but from Varna, Bulgaria
+- 📌 I'm living in Berlin, but I'm from Varna, Bulgaria
 
 
 
