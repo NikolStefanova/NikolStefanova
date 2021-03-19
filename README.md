@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NikolStefanova
 - 👀 I’m interested in sports and cooking 
 - 🌱 I’m currently learning Computer Science at Technical University Berlin
+- 📌 I'm bulgarian girl living in Berlin
+
 
 
 <!---
